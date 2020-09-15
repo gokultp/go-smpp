@@ -111,4 +111,4 @@ SMS from the command line, and an HTTP server with WebSocket support.
 
 ## Copyright
 
-See LICENSE and AUTHORS files for details.
+See LICENSE and AUTHORS files for details..
